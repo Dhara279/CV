@@ -1,0 +1,146 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  margin-top: 0;
+  font-family: 'Sacramento', cursive;
+  font-size: 5.625rem;
+  margin: 50px auto 0 auto;
+  color: #e84a5f ;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  color: #ab4747;
+  font-weight: normal;
+}
+
+h3 {
+  font-family: 'Montserrat', sans-serif;
+  color: #bf6666;
+}
+
+hr{
+  border-style: dotted;
+  color: black;
+  width: 30%;
+  height: 4px;
+  background-color: #FF847C;
+}
+
+.top-container {
+  background-color: #FF847C;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container {
+  background-color: #ffb4af;
+  padding-bottom: 50px;
+}
+
+.profile-img {
+  height: 250px;
+  padding-top: 55px;
+  box-sizing: border-box;
+}
+
+.profile-h2{
+  padding-top: 10px;
+  padding-bottom: 5px;
+}
+
+.profile{
+  padding-bottom: 30px;
+}
+
+
+.anthology {
+  padding-top: 30px;
+
+}
+
+.bottom-container {
+  background-color: #ff5449;
+  padding-top: 50px;
+  padding-bottom: 10px;
+}
+
+.art {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.book-img {
+  float: left;
+  padding-left: 20px;
+  padding-right: 20px;
+
+}
+
+
+.footer-link {
+  background-color: #ff847c;
+  color: white;
+  font-style: normal;
+  font-size: 16px;
+  text-align: center;
+  padding: 13px 19px;
+  text-decoration: none;
+}
+
+.anthology-row {
+  width: max-content;
+  margin: 55px auto 20px auto;
+  text-align: left;
+  height: 290px;
+}
+
+.book {
+  /* float: left; */
+  margin: auto 30px;
+  height: 250px;
+}
+
+.poet-img {}
+
+.btn{
+  background-color: #ff847c;
+  color: white;
+  font-style: normal;
+  font-size: 16px;
+  text-align: center;
+  padding: 13px 19px;
+  text-decoration: none;
+}
+
+.btn:hover{
+
+}
+.contact-me {
+  text-align: center;
+  padding-top: 35px;
+}
+
+.contact-link{
+  padding-bottom: 20px;
+  margin-top: 50px;
+}
+
+.social{
+  margin-bottom: 50px;
+}
